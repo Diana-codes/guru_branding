@@ -28,20 +28,20 @@ export default function About() {
           <div className="grid grid-cols-2 gap-4">
             <div className="bg-gradient-to-br from-primary/20 to-primary/5 rounded-lg p-8 flex items-center justify-center min-h-[200px]">
               <div className="text-center">
-                <p className="text-4xl font-bold text-primary mb-2">100+</p>
+                <p className="text-4xl font-bold text-primary mb-2">14+</p>
                 <p className="text-sm text-muted-foreground">Projects Completed</p>
               </div>
             </div>
             <div className="bg-gradient-to-br from-secondary/20 to-secondary/5 rounded-lg p-8 flex items-center justify-center min-h-[200px]">
               <div className="text-center">
-                <p className="text-4xl font-bold text-secondary mb-2">50+</p>
+                <p className="text-4xl font-bold text-secondary mb-2">14+</p>
                 <p className="text-sm text-muted-foreground">Happy Clients</p>
               </div>
             </div>
             <div className="bg-gradient-to-br from-primary/20 to-primary/5 rounded-lg p-8 flex items-center justify-center min-h-[200px]">
               <div className="text-center">
-                <p className="text-4xl font-bold text-primary mb-2">5+</p>
-                <p className="text-sm text-muted-foreground">Years Experience</p>
+                <p className="text-4xl font-bold text-primary mb-2">9+</p>
+                <p className="text-sm text-muted-foreground">Months Experience</p>
               </div>
             </div>
             <div className="bg-gradient-to-br from-secondary/20 to-secondary/5 rounded-lg p-8 flex items-center justify-center min-h-[200px]">
